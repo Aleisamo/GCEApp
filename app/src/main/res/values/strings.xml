@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GCEApp</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="button_name">Joke</string>
+    <string name="httpIp">http://192.168.0.7:8080/_ah/api/</string>
+    <string name="jokeKey">JokeKey</string>
+    <string name="paid_message"> joke!!</string>
+    <string name="click_to_display_a_joke">click to display a joke</string>
+
+</resources>
